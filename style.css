@@ -9,7 +9,7 @@ body {
     font-weight: 300;
     overflow-x: hidden;
     color: white;
-    background-color: #01000f;
+    background-color: #d4a3b299;
 }
 
 a { 
@@ -30,7 +30,7 @@ p { line-height: 1.9; }
     border: 0;
     border-radius: 0;
     transform: skewX(-15deg);
-    background-color: rgba(0,0,0,0.5);
+    background-color: #d4a3b299;
     color: white;    
 }
 
@@ -169,7 +169,7 @@ hr { border-top: 1px solid white; }
 
 .btn-primary:hover {
     background-color: #9CC;
-    color: black;
+    color: #cd8da099;
 }
 
 .tm-site-footer {
@@ -241,7 +241,7 @@ textarea {
 @media (max-width: 992px) {    
     .tm-nav {
         position: absolute;
-        background: rgba(0, 0, 0, 0.8);
+        background: #d4a3b299;
         color: white;
         top: 44px;
         right: 4px;
